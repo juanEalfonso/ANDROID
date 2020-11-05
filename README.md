@@ -1,13 +1,14 @@
-# ANDROID
+# ANDROID programacion clase informatica 2
 
  instalación de Android Studio
  y los proyectos realizados de las diferentes funcionalidades 
  
 creado por 
 ingeniero
-JUAN ALFONSO 
-20201093004 
 
+20201093004 
+JUAN ERNESTO ALFONSO RAMIREZ
+juealfonsor@correo.udistrital.edu.co
 
 
 UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
